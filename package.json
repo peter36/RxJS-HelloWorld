@@ -1,0 +1,29 @@
+{
+  "name": "rxjs-helloworld",
+  "version": "1.0.0",
+  "description": "A simple text on RxJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peter36/RxJS-HelloWorld.git"
+  },
+  "keywords": [
+    "nodejs",
+    "node",
+    "rxjs",
+    "javascript"
+  ],
+  "author": "Peter Li (peter36)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peter36/RxJS-HelloWorld/issues"
+  },
+  "homepage": "https://github.com/peter36/RxJS-HelloWorld#readme",
+  "dependencies": {
+    "rxjs": "^5.0.0-beta.10"
+  }
+}
